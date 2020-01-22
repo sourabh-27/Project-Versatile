@@ -3,8 +3,7 @@ The project –Versatile Educational Website elucidates about various courses th
 
 The websites in this project showcase every single module of Versatile in details, as every module constitutes to create a good overall system, that’s why every module is an essential part of this project.
 
-__Technologies Used: 
-
+**Technologies Used:** 
 •	HTML – Page layout has been designed in HTML. 
 •	CSS – CSS had been used for all the designing part. 
 •	JavaScript - All the validation task and animations have been developed by JavaScript. 
@@ -12,7 +11,7 @@ __Technologies Used:
 •	AngularJS – AngularJS is a JavaScript framework. AngularJS extends HTML attributes with Directives and binds data to HTML with Expressions. 
 •	PHP - PHP is used as the backend framework. PHP is used to fetch the details of old users and new users.
 
-#Content
+**Content**
 The project – Versatile Educational Website projects various ongoing courses that are offered and various services provided.
 The project consists of different modules which are illustrated below – 
 1.	Home – Home page consists all the basic information and the description about the system. It has links to all the sub websites in the system. A user can return to the home page from any page in the system. 
